@@ -1,7 +1,7 @@
 # Guacamole
 ## Ingredients
  * avocado 
- * lemon
+ * lemon or lime
  * salt
  * jalapenos
  * feta
