@@ -1,5 +1,10 @@
 # Guacamole
 ## Ingredients
-## Serving Size
-## Nutritional Value
+ * avocado 
+ * lemon
+ * salt
+ * jalapenos
+ * feta
+### Serving Size
+### Nutritional Value
 ## Instructions 
